@@ -1,0 +1,17 @@
+{
+  "title": "Food Safety and Hygiene Assessment Report",
+  "type": "DAILY",
+  "_start": "tiny-bonus-6289:1",
+  "pages": [
+    {
+      "page": "flat-fog-2957:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "SUBMIT",
+        "_false": "CORRECT"
+      }
+    }
+  ],
+  "tags": null,
+  "options": null
+}
