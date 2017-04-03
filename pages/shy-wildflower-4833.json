@@ -13,7 +13,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "frosty-bush-1588",
@@ -22,7 +22,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "nameless-recipe-2769",
@@ -31,7 +31,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "old-block-8209",
@@ -40,7 +40,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "dawn-cell-3022",
@@ -49,7 +49,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "twilight-union-1658",
@@ -58,7 +58,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "proud-sea-5858",
@@ -67,7 +67,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "empty-breeze-5379",
@@ -76,7 +76,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "empty-recipe-6423",
@@ -85,7 +85,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "dawn-salad-4746",
@@ -94,7 +94,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "noisy-forest-6310",
@@ -103,7 +103,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "falling-bar-7250",
@@ -112,7 +112,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "snowy-wave-8774",
@@ -121,7 +121,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "small-leaf-7120",
@@ -130,7 +130,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "empty-king-5446",
@@ -139,7 +139,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "white-hat-3368",
@@ -148,7 +148,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "delicate-shadow-5777",
@@ -157,7 +157,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "damp-sun-4049",
@@ -166,7 +166,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "orange-bonus-0283",
@@ -175,7 +175,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         },
         {
           "id": "broken-voice-7509",
@@ -184,7 +184,7 @@
           "type": "GRADE_QUESTION",
           "array": false,
           "validation": "max:2",
-          "attribuets": null
+          "attributes": null
         }
       ]
     }
